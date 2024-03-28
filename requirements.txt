@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+numpy
+scikit-learn
+matplotlib
